@@ -1,0 +1,3 @@
+FredXu    28    male
+刘德华    50    male
+林志玲    40    female
